@@ -1,6 +1,6 @@
 "use strict";
 
-const anitext = (function(){
+const colorboxes = (function(){
     const app = {
         dots: [],
         colors: [],
