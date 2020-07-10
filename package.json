@@ -1,0 +1,29 @@
+{
+  "name": "anitext",
+  "version": "1.0.0",
+  "description": "animated text by web api",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "terser-webpack-plugin": "^3.0.6",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "start": "webpack --mode production -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vz01d/anitext.git"
+  },
+  "keywords": [],
+  "author": "v01d <vz01d@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vz01d/anitext/issues"
+  },
+  "homepage": "https://github.com/vz01d/anitext#readme"
+}
